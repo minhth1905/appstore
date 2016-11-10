@@ -2,15 +2,25 @@
 https://github.com/nvn01234/appstore
 
 ## Project structure
-All documents (reports, prototype,...): /documents
+All documents (reports, prototype,...)
 
-Images: /app/src/main/res/drawable
+    /documents
 
-Declare short name for images: /app/src/main/res/values/drawables.xml
+Images
 
-Layout: /app/src/main/res/layout
+    /app/src/main/res/drawable
 
-Declare color: /app/src/main/res/values/colors.xml
+Declare short name for images
+
+    /app/src/main/res/values/drawables.xml
+
+Layout
+
+    /app/src/main/res/layout
+
+Declare color
+
+    /app/src/main/res/values/colors.xml
 
 ## Plugins should be installed
 Android Material Design Icon Generator
