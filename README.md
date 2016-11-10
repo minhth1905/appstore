@@ -1,6 +1,12 @@
 # appstore
 https://github.com/nvn01234/appstore
 
+## Version
+Status: Developing
+
+## Requirements
+Android version: 4.4.0+
+
 ## Project structure
 All documents (reports, prototype,...)
 
@@ -37,6 +43,8 @@ Android Material Design Icon Generator
     $ git pull origin master
 
 ### 3. Commit & push
+
+Note: Please pulling before pushing to avoid conflict.
 
     $ git add .
     $ git commit -m "message"
